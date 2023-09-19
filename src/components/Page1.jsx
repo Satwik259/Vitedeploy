@@ -1,8 +1,10 @@
 import React, { useState } from "react";
-import tomatoes from "../assets/img/grilled-tomatoes-1-846x846 3.png";
-import snacks from "../assets/img/grilled-tomatoes-1-846x846 4.png";
-import workoutrecipe from "../assets/img/grilled-tomatoes-1-846x846 5.png";
-import left from "../assets/img/Group 320.png";
+import tomatoes from "../assets/img/grilled-tomatoes-1-846X846 3.png";
+import snacks from "../assets/img/grilled-tomatoes-1-846X846 4.png";
+import workoutrecipe from "../assets/img/grilled-tomatoes-1-846X846 5.png";
+
+
+import left from "../assets/img/Group 320.png"
 import right from "../assets/img/Group 321.png"
 const Page1 = () => {
   
