@@ -9,7 +9,7 @@ const App = () => {
     <About/>
     <aside className='reqs:flex '>
     <Page1/>
-    
+    <h1>its hero time</h1>
     </aside>
     </main>
   )
